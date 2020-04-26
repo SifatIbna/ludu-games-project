@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1463252733 source:d:\programing\igraphics\snakludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1463081564 d:\programing\igraphics\snakludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465399595 source:d:\programing\igraphics\snakeludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1465181414 d:\programing\igraphics\snakeludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464548535 source:c:\users\user\desktop\snakeludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1464537820 c:\users\user\desktop\snakeludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1499440579 source:e:\snakeludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1465407212 e:\snakeludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465439642 source:i:\snakeludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1465407212 i:\snakeludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465444274 source:h:\snakeludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1465407212 h:\snakeludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465444274 source:d:\programming\igraphics\snakeludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1465407212 d:\programming\igraphics\snakeludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1499440579 source:e:\ludu game final\snakeludu\snakeludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1465407212 e:\ludu game final\snakeludu\snakeludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+

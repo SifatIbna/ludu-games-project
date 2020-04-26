@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1499624361 source:e:\myigraphics\imain.cpp.cpp
+	"iGraphics.h"
+
+1499667274 .h"
+
+1493810122 e:\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493810122 h>
+
+1499667274 source:e:\boxludu\imain.cpp.cpp
+	"iGraphics.h"
+
+1493810122 e:\boxludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1499708892 source:/home/sifat/Downloads/Ludu game final-20200426T234208Z-001/Ludu game final/BoxLudu/iMain.cpp.cpp
+	"iGraphics.h"
+
+1493763322 /home/sifat/Downloads/Ludu game final-20200426T234208Z-001/Ludu game final/BoxLudu/iGraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
